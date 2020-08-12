@@ -1,3 +1,4 @@
 datapane
 numpy
 pandas 
+nbgitpuller
